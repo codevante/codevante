@@ -31,7 +31,7 @@ I'm a full-stack developer with a passion for building scalable, efficient, and 
 
 Whether you're looking for a collaborator on a project, need some advice, or just want to connect, I'm open to opportunities and networking within the tech community.
 
-- 💼 [LinkedIn](www.linkedin.com/in/nimishbagayatkar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nimishbagayatkar)
 - 📫 How to reach me: codevante@dnyan.dev
 - ⚡ Fun fact: My hobby and passion is building things that help people achieve their fullest potential.
 
